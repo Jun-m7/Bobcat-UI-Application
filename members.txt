@@ -1,0 +1,17 @@
+Group Name
+----------
+
+
+Menbers
+-------
+Jun He
+
+
+Designated Submitter
+--------------------
+Jun He
+
+GitHub Repo Link
+----------------
+
+https://github.com/Jun-m7/Bobcat-UI-Application
